@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploRefitApis.Payments", "ExemploRefitApis.Payments\ExemploRefitApis.Payments.csproj", "{80EB0834-B146-49FA-858C-5339B0C8A63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploRefitApis.Orders", "ExemploRefitApis.Orders\ExemploRefitApis.Orders.csproj", "{AAEFA8A1-FDD2-4320-ABD1-A39F55E9B354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EB0834-B146-49FA-858C-5339B0C8A63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EB0834-B146-49FA-858C-5339B0C8A63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EB0834-B146-49FA-858C-5339B0C8A63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EB0834-B146-49FA-858C-5339B0C8A63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEFA8A1-FDD2-4320-ABD1-A39F55E9B354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEFA8A1-FDD2-4320-ABD1-A39F55E9B354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEFA8A1-FDD2-4320-ABD1-A39F55E9B354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEFA8A1-FDD2-4320-ABD1-A39F55E9B354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {351A3DCC-946F-4338-92FA-8B20B7CFEB67}
+	EndGlobalSection
+EndGlobal
